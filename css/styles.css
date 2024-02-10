@@ -1,0 +1,87 @@
+/* #region */
+
+/* #endregion */
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #fafafa;
+  color: #111111;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+button {
+  cursor: pointer;
+}
+
+.logo-link {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 111%;
+  letter-spacing: -0.03em;
+  color: inherit;
+}
+.logo-link-italic {
+  font-style: italic;
+}
+.nav-link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 114%;
+  letter-spacing: -0.02em;
+}
+.dark-text {
+  color: #111111;
+}
+.white-text {
+  color: #fff;
+}
+/* #region main section */
+/* .main-section {
+  background-color: ;
+} */
+/* .page-title {
+}
+.main-section-btn {
+} */
+
+/* #endregion */
+
+/* #region footer */
+
+.footer {
+  background-color: #1e1823;
+}
+.footer-title {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 121%;
+  letter-spacing: -0.02em;
+  color: #fff;
+}
+.footer-title-span {
+  color: #fd9222;
+}
+.address-title {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 129%;
+  color: #fff;
+}
+.address-link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 129%;
+  letter-spacing: -0.02em;
+  color: #fff;
+  font-style: normal;
+}
+.footer-btn {
+  font-weight: 600;
+  font-size: 14px;
+  color: #fff;
+  background-color: #fd9222;
+}
+/* #endregion */
